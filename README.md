@@ -25,14 +25,14 @@
     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++" width="75" height="28">
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python" width="75" height="28">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&amp;logo=r&amp;logoColor=blue&amp;color=0B2C4A" alt="R" width="75" height="28">
-    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat&amp;" alt="JavaScript" width="75" height="28">
-    <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat" alt="TypeScript" width="75" height="28">
+    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat&amp;" alt="JavaScript" width="85" height="28">
+    <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat" alt="TypeScript" width="85" height="28">
   </p>
 
   <h4 id="development">Data Science</h4>
   <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" width="75" height="28">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" width="75" height="28">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" width="85" height="28">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" width="85" height="28">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" width="75" height="28">
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" alt="Pandas" width="75" height="28">
     <img src="https://img.shields.io/badge/NumPy-777BB4?style=flat&logo=numpy&logoColor=white" alt="NumPy" width="75" height="28">
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL" width="75" height="28">
     <img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&amp;logo=sqlite&amp;logoColor=A8B9CC" alt="SQlite" width="75" height="28">
     <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&amp;logo=mongodb&logoColor=white" alt="MongoDB" width="75" height="28">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&amp;logo=postgresql&amp;logoColor=green" alt="PostgreSQL" width="75" height="28">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&amp;logo=postgresql&amp;logoColor=green" alt="PostgreSQL" width="85" height="28">
   </p>
 
   <h4 id="tools-and-technologies">Tools and Technologies</h4>
@@ -64,10 +64,10 @@
     <img src="https://img.shields.io/badge/Linux-05122A?style=flat&amp;logo=linux&amp;logoColor=white" alt="Linux" width="75" height="28">
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git" width="75" height="28">
     <img src="https://img.shields.io/badge/npm-CB3837?style=flat&amp;logo=npm&amp;logoColor=white" alt="NPM" width="75" height="28">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" width="75" height="28">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" width="80" height="28">
     <img src="https://img.shields.io/badge/fastapi-109989?style=flat&amp;logo=FASTAPI&amp;logoColor=white" alt="Fast API" width="75" height="28">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" width="75" height="28">
-    <img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat&logo=IBM&logoColor=white" alt="IBM watsonx" width="75" height="28">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" width="88" height="28">
+    <img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat&logo=IBM&logoColor=white" alt="IBM watsonx" width="80" height="28">
   </p>
     <h2 align="center">☎️ You can reach me by:</h2>
     <p align="center">
