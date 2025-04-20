@@ -9,7 +9,7 @@
 <h1 align="center" class="animated-text">Hi 👋, I'm Artem</h1>
 
 
-<h4 align="center">Data Scientist at IBM | Applied Artificial Intelligence Student at Vilnius Tech University, see my <a href="https://krialm.github.io/Profile/assets/CV.pdf" target="_blank">resume</a> for more</h4>
+<h3 align="center">Data Scientist at IBM | Applied Artificial Intelligence Student at Vilnius Tech University, see my <a href="https://krialm.github.io/Profile/assets/CV.pdf" target="_blank">resume</a> for more</h3>
 </div>
 <hr>
 
